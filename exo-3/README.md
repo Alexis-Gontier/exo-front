@@ -5,7 +5,7 @@ Apprendre à créer une feuille de styles CSS et à la lier à un document HTML 
 
 ## 📝 Consignes
 1. Créez un fichier `style.css`
-2. Reliez ce fichier à votre `index.html` (utilisez la balise `<link>`)
+2. Reliez ce fichier à votre `index.html`
 3. Appliquez les styles suivants :
     - Fond de page en **gris clair**
     - Paragraphes en **rouge**
